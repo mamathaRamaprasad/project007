@@ -1,3 +1,1 @@
-hey this is my java file
-
-how are you.
+hey this is my java file.
