@@ -1,0 +1,4 @@
+*.logs
+*.info
+logs/
+mams.info
